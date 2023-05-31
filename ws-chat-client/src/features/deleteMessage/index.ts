@@ -1,0 +1,1 @@
+export {default as DeleteMessageFeature} from './ui/DeleteMessageFeature.vue';

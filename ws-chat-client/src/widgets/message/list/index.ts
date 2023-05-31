@@ -1,0 +1,1 @@
+export {default as MessageListWidget} from './ui/MessageList.vue';
